@@ -1,1 +1,1 @@
-# BEmoTC-Bangla Emotion Textual Corpus
+# BEmoTC-Bangla Emotion Text Corpus
