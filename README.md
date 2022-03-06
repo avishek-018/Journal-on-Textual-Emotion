@@ -1,1 +1,1 @@
-# Journal-on-Textual-Emotion
+# BEmoTC-Bangla Emotion Textual Corpus
